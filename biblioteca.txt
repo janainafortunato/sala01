@@ -10,3 +10,5 @@ Melyssa Oliveira == git pull == captura alterações
 
 Janaina Fortunato = git init == iniciar um repositorio dentro de uma pasta local.
 
+Renata == git commit -m "frase" ==  faz uma alteração com mensagem
+
