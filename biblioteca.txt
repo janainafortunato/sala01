@@ -1,4 +1,4 @@
 Demetryus == git checkout "nome da branch" - alterar branches
 João Sotero == git branch -M main === mudar de master para main
 Vitória Bezerra == git touch - criar um novo arquivo no diretorio atual
-
+Melyssa Oliveira == git pull == captura e epordução de alterações
