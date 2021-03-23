@@ -1,0 +1,1 @@
+Demetryus == git checkout "nome da branch" - alterar branches
