@@ -1,1 +1,2 @@
-João Sotero == histórico de todas as alterações feitas em arquivos
+João Sotero == histórico de todas as alterações feitas em arquivos;
+Vitória Bezerra == Ferramenta muito boa para trabalhar em equipes;
