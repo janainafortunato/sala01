@@ -4,5 +4,9 @@ João Sotero == git branch -M main === mudar de master para main
 geisiane == git status - mostra o situação da pasta.
 =======
 Vitória Bezerra == git touch - criar um novo arquivo no diretorio atual
+<<<<<<< HEAD
 
 >>>>>>> ce2d8d4045df8c6c01eb1cdb90a433ab437a78e6
+=======
+Melyssa Oliveira == git pull == captura e epordução de alterações
+>>>>>>> 2d44c7e25ecd4f1ef8292434106d4596b5a54a75
