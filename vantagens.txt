@@ -6,3 +6,4 @@ Vitória Bezerra == Ferramenta muito boa para trabalhar em equipes;
 Demetryus Oliveira == compartilhamento de códigos e projetos;
 >>>>>>> d137dd279aa6d56f03f217c561246733b2304fdc
 geisiane == o git é uma plataforma colaborativa
+Melyssa == Execução de projetos 
