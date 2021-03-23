@@ -1,1 +1,2 @@
 Demetryus == git checkout "nome da branch" - alterar branches
+João Sotero == git branch -M main === mudar de master para main
