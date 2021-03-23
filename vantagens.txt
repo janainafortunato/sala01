@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 produtividade
+=======
+<<<<<<< HEAD
+Renata: Gerenciamento de projetos
+=======
+João Sotero == histórico de todas as alterações feitas em arquivos;
+Vitória Bezerra == Ferramenta muito boa para trabalhar em equipes;
+Demetryus Oliveira == compartilhamento de códigos e projetos;
+>>>>>>> d137dd279aa6d56f03f217c561246733b2304fdc
+geisiane == o git é uma plataforma colaborativa
+>>>>>>> 74b5bfaec5ffd883a2f1adbfe4ed815940073166
