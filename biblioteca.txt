@@ -1,3 +1,8 @@
 Demetryus == git checkout "nome da branch" - alterar branches
 João Sotero == git branch -M main === mudar de master para main
+<<<<<<< HEAD
 geisiane == git status - mostra o situação da pasta.
+=======
+Vitória Bezerra == git touch - criar um novo arquivo no diretorio atual
+
+>>>>>>> ce2d8d4045df8c6c01eb1cdb90a433ab437a78e6
