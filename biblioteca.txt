@@ -1,10 +1,12 @@
 Demetryus == git checkout "nome da branch" - alterar branches
+
 João Sotero == git branch -M main === mudar de master para main
 
 geisiane == git status - mostra o situação da pasta.
-=======
+
 Vitória Bezerra == git touch - criar um novo arquivo no diretorio atual
 
-=======
-Melyssa Oliveira == git pull == captura e epordução de alterações
+Melyssa Oliveira == git pull == captura alterações
+
+Janaina Fortunato = git init == iniciar um repositorio dentro de uma pasta local.
 
