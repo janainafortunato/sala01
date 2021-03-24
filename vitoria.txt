@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Agora está certo, eu acho kkk
+=======
+Estou incluindo minha nova branch - vitória
+>>>>>>> 32f407558b9b6212ade9638c02608df0f49cc0d7
